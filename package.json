@@ -1,0 +1,16 @@
+{
+  "name": "Downloads",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@vlasky/quoted-printable": "^3.2.1",
+    "libmime": "^5.0.0"
+  }
+}
